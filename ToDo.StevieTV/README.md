@@ -19,3 +19,7 @@ The project is part of TheCSharpAcademy: https://thecsharpacademy.com/project/26
 *   Creates a minimal API following this [tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio)
 *   Uses Bootstrap for nicer styling
 *   Doesn't allow blank entry for description on add or edit
+
+### Screenshot
+
+![Screenshot](ToDo.StevieTV/wwwroot/img/Screenshot.png)
